@@ -1,0 +1,495 @@
+Player,Team,Pos,Age,Standard_Gls,Standard_Ast,Standard_xG,Standard_xAG,Transfer_Value,Transfer_Value_Str
+Aaron Cresswell,West Ham,DF,34,0,0,0.2,1.3,8.7696,EUR 8.8M
+Aaron Ramsdale,Southampton,GK,26,0,0,0.0,0.0,6.6000000000000005,EUR 6.6M
+Aaron Wan-Bissaka,West Ham,DF,26,2,5,1.2,3.5,12.270719999999999,EUR 12.3M
+Abdoulaye Doucouré,Everton,MF,31,3,2,4.1,2.4,13.513499999999999,EUR 13.5M
+Abdukodir Khusanov,Manchester City,DF,20,0,0,0.0,0.1,12.011999999999999,EUR 12.0M
+Abdul Fatawu Issahaku,Leicester City,FW,20,0,2,0.4,1.6,23.625,EUR 23.6M
+Adam Armstrong,Southampton,"FW,MF",27,2,2,3.3,1.2,21.57525,EUR 21.6M
+Adam Lallana,Southampton,MF,36,0,2,0.2,0.9,10.618199999999998,EUR 10.6M
+Adam Smith,Bournemouth,DF,33,0,0,0.7,0.4,8.977679999999998,EUR 9.0M
+Adam Webster,Brighton,DF,29,0,0,0.2,0.5,9.908879999999998,EUR 9.9M
+Adam Wharton,Crystal Palace,MF,20,0,2,0.4,3.0,15.96,EUR 16.0M
+Adama Traoré,Fulham,"FW,MF",28,2,7,4.0,4.9,23.322599999999998,EUR 23.3M
+Albert Grønbaek,Southampton,"FW,MF",23,0,0,0.1,0.0,21.171149999999997,EUR 21.2M
+Alejandro Garnacho,Manchester Utd,"MF,FW",20,6,2,7.3,4.5,28.53,EUR 28.5M
+Alex Iwobi,Fulham,"FW,MF",28,9,6,4.7,7.0,26.214299999999998,EUR 26.2M
+Alex McCarthy,Southampton,GK,34,0,0,0.0,0.0,5.4,EUR 5.4M
+Alex Palmer,Ipswich Town,GK,27,0,0,0.0,0.0,6.45,EUR 6.5M
+Alex Scott,Bournemouth,MF,20,0,0,0.7,0.9,15.24,EUR 15.2M
+Alexander Isak,Newcastle Utd,FW,24,23,6,20.3,4.3,37.1772,EUR 37.2M
+Alexis Mac Allister,Liverpool,MF,25,5,5,2.8,4.7,16.875,EUR 16.9M
+Ali Al Hamadi,Ipswich Town,FW,22,0,0,0.4,0.1,21.707999999999995,EUR 21.7M
+Alisson,Liverpool,GK,31,0,0,0.0,0.6,5.8850999999999996,EUR 5.9M
+Alphonse Areola,West Ham,GK,31,0,0,0.0,0.0,5.85,EUR 5.8M
+Altay Bayındır,Manchester Utd,GK,26,0,0,0.0,0.0,6.6000000000000005,EUR 6.6M
+Amad Diallo,Manchester Utd,"MF,FW",22,8,6,4.7,4.9,29.0736,EUR 29.1M
+Amadou Onana,Aston Villa,MF,22,3,0,2.1,0.7,15.6672,EUR 15.7M
+Andreas Pereira,Fulham,MF,28,2,4,3.8,4.6,14.918399999999998,EUR 14.9M
+Andrew Robertson,Liverpool,DF,30,0,1,1.2,4.6,10.300799999999999,EUR 10.3M
+André,Wolves,MF,23,0,0,0.4,0.8,14.2692,EUR 14.3M
+André Onana,Manchester Utd,GK,28,0,0,0.0,0.2,6.3126,EUR 6.3M
+Andrés García,Aston Villa,"DF,MF",21,0,0,0.0,0.2,14.7294,EUR 14.7M
+Andy Irving,West Ham,MF,24,0,0,0.1,0.2,13.841399999999997,EUR 13.8M
+Anthony Elanga,Nott'ham Forest,"FW,MF",22,6,11,4.5,5.7,29.959199999999996,EUR 30.0M
+Anthony Gordon,Newcastle Utd,"FW,MF",23,6,5,8.0,5.0,28.023749999999996,EUR 28.0M
+Antoine Semenyo,Bournemouth,FW,24,11,5,10.0,5.8,30.0771,EUR 30.1M
+Antonee Robinson,Fulham,DF,26,0,10,0.7,4.2,12.66144,EUR 12.7M
+Antony,Manchester Utd,"DF,MF",24,0,0,1.0,0.1,13.951799999999997,EUR 14.0M
+Antonín Kinský,Tottenham,GK,21,0,0,0.0,0.1,7.3573499999999985,EUR 7.4M
+Archie Gray,Tottenham,"DF,MF",18,0,0,0.0,0.1,15.6156,EUR 15.6M
+Arijanet Muric,Ipswich Town,GK,25,0,0,0.0,0.0,6.75,EUR 6.8M
+Armando Broja,Everton,FW,22,0,0,0.1,0.2,21.664799999999996,EUR 21.7M
+Armel Bella Kotchap,Southampton,DF,22,0,0,0.3,0.0,11.554559999999999,EUR 11.6M
+Ashley Young,Everton,DF,39,1,3,0.3,2.3,8.11704,EUR 8.1M
+Axel Disasi,Chelsea,DF,26,1,0,0.3,0.1,10.81344,EUR 10.8M
+Axel Tuanzebe,Ipswich Town,DF,26,0,1,0.2,0.3,10.7712,EUR 10.8M
+Ayden Heaven,Manchester Utd,DF,17,0,0,0.1,0.0,12.732719999999999,EUR 12.7M
+Bart Verbruggen,Brighton,GK,21,0,1,0.0,0.0,7.4602499999999985,EUR 7.5M
+Ben Brereton,Southampton,FW,25,0,0,0.9,0.1,20.4525,EUR 20.5M
+Ben Chilwell,Crystal Palace,DF,27,1,0,0.2,0.8,10.6296,EUR 10.6M
+Ben Davies,Tottenham,DF,31,0,0,0.3,0.2,9.406799999999999,EUR 9.4M
+Ben Godfrey,Ipswich Town,DF,26,0,0,0.0,0.0,10.56,EUR 10.6M
+Ben Johnson,Ipswich Town,"DF,FW",24,1,2,1.1,1.3,22.2318,EUR 22.2M
+Ben Mee,Brentford,DF,34,0,0,0.0,0.0,8.64,EUR 8.6M
+Ben White,Arsenal,DF,26,0,2,0.5,1.4,11.07744,EUR 11.1M
+Benoît Badiashile,Chelsea,DF,23,0,0,0.0,0.0,11.28,EUR 11.3M
+Bernardo Silva,Manchester City,"MF,FW",29,4,4,3.9,5.1,22.6935,EUR 22.7M
+Bernd Leno,Fulham,GK,32,0,1,0.0,0.1,5.791200000000001,EUR 5.8M
+Beto,Everton,FW,26,8,0,8.2,1.2,24.8292,EUR 24.8M
+Bilal El Khannouss,Leicester City,"MF,FW",20,2,3,1.3,4.6,25.74,EUR 25.7M
+Billy Gilmour,Brighton,MF,23,0,0,0.1,0.0,14.114099999999999,EUR 14.1M
+Bobby De Cordova-Reid,Leicester City,FW,31,1,2,0.8,1.2,18.778499999999998,EUR 18.8M
+Boubacar Kamara,Aston Villa,MF,24,1,0,0.8,0.9,14.310599999999997,EUR 14.3M
+Boubakary Soumaré,Leicester City,MF,25,0,0,0.3,0.4,13.594499999999998,EUR 13.6M
+Brajan Gruda,Brighton,"MF,FW",20,1,4,1.2,2.1,25.0425,EUR 25.0M
+Brennan Johnson,Tottenham,FW,23,11,3,10.4,2.3,29.440799999999996,EUR 29.4M
+Bruno Fernandes,Manchester Utd,MF,29,8,10,9.9,8.5,18.3762,EUR 18.4M
+Bruno Guimarães,Newcastle Utd,MF,26,5,6,4.3,6.1,17.080800000000004,EUR 17.1M
+Bryan Mbeumo,Brentford,FW,24,20,7,12.3,8.3,35.4177,EUR 35.4M
+Bukayo Saka,Arsenal,"FW,MF",22,6,10,6.8,7.6,30.5424,EUR 30.5M
+Caleb Okoli,Leicester City,DF,23,1,0,0.6,0.0,11.57328,EUR 11.6M
+Callum Hudson-Odoi,Nott'ham Forest,"FW,MF",23,5,2,2.5,2.7,24.999299999999998,EUR 25.0M
+Callum Wilson,Newcastle Utd,FW,32,0,0,0.4,0.1,17.1855,EUR 17.2M
+Calvin Bassey,Fulham,DF,24,1,0,1.0,0.1,11.382239999999998,EUR 11.4M
+Cameron Archer,Southampton,FW,23,2,0,5.7,0.5,23.3073,EUR 23.3M
+Cameron Burgess,Ipswich Town,DF,28,0,2,1.1,0.5,10.54368,EUR 10.5M
+Caoimhín Kelleher,Liverpool,GK,25,0,0,0.0,0.0,6.75,EUR 6.8M
+Carlos Alcaraz,Everton,"FW,MF",21,2,3,1.7,1.6,24.651900000000005,EUR 24.7M
+Carlos Baleba,Brighton,MF,20,3,1,3.1,1.3,16.785,EUR 16.8M
+Carlos Forbs,Wolves,"MF,FW",20,0,0,0.1,0.0,22.522499999999997,EUR 22.5M
+Carlos Soler,West Ham,"MF,FW",27,1,1,1.8,1.4,20.64645,EUR 20.6M
+Casemiro,Manchester Utd,MF,32,1,0,1.9,2.3,12.106800000000003,EUR 12.1M
+Charlie Taylor,Southampton,DF,30,0,0,0.0,0.1,9.609599999999999,EUR 9.6M
+Cheick Doucouré,Crystal Palace,MF,24,0,0,0.4,0.0,13.855199999999998,EUR 13.9M
+Chidozie Obi-Martin,Manchester Utd,FW,16,0,0,0.7,0.0,24.4701,EUR 24.5M
+Chiedozie Ogbene,Ipswich Town,FW,27,0,0,0.0,0.1,19.36935,EUR 19.4M
+Chris Richards,Crystal Palace,DF,24,1,0,1.4,0.1,11.426399999999997,EUR 11.4M
+Chris Wood,Nott'ham Forest,FW,32,20,3,13.4,2.6,27.445500000000003,EUR 27.4M
+Christian Eriksen,Manchester Utd,MF,32,1,2,1.4,3.2,12.494400000000004,EUR 12.5M
+Christian Nørgaard,Brentford,MF,30,5,4,4.3,1.3,14.591999999999999,EUR 14.6M
+Christian Walton,Ipswich Town,GK,28,0,0,0.0,0.0,6.3,EUR 6.3M
+Christopher Nkunku,Chelsea,FW,26,3,2,4.8,2.1,22.9482,EUR 22.9M
+Cody Gakpo,Liverpool,FW,25,10,4,7.1,4.4,27.84375,EUR 27.8M
+Cole Palmer,Chelsea,"MF,FW",22,15,8,17.3,10.9,36.7632,EUR 36.8M
+Conor Bradley,Liverpool,DF,21,0,2,0.7,1.4,12.35976,EUR 12.4M
+Conor Chaplin,Ipswich Town,"MF,FW",27,1,1,1.5,0.7,20.45295,EUR 20.5M
+Conor Coady,Leicester City,DF,31,1,0,0.4,0.1,9.594,EUR 9.6M
+Conor Townsend,Ipswich Town,DF,31,0,1,0.0,0.7,9.56592,EUR 9.6M
+Craig Dawson,Wolves,DF,34,0,0,0.5,0.0,8.6832,EUR 8.7M
+Cristian Romero,Tottenham,DF,26,1,0,1.6,0.6,11.003520000000002,EUR 11.0M
+Crysencio Summerville,West Ham,"FW,MF",22,1,1,1.6,1.7,23.0688,EUR 23.1M
+Curtis Jones,Liverpool,"MF,DF",23,3,3,4.3,1.1,16.3419,EUR 16.3M
+Daichi Kamada,Crystal Palace,MF,27,0,0,1.1,1.9,13.287,EUR 13.3M
+Dan Burn,Newcastle Utd,DF,32,1,1,2.0,0.9,9.703680000000002,EUR 9.7M
+Dango Ouattara,Bournemouth,FW,22,7,4,8.4,5.5,28.922399999999996,EUR 28.9M
+Daniel Bentley,Wolves,GK,31,0,0,0.0,0.0,5.85,EUR 5.8M
+Daniel Jebbison,Bournemouth,FW,20,1,0,1.0,0.2,23.22,EUR 23.2M
+Daniel Muñoz,Crystal Palace,DF,28,4,5,4.9,5.5,12.690719999999999,EUR 12.7M
+Danilo,Nott'ham Forest,"MF,FW",23,0,0,0.0,0.0,21.15,EUR 21.1M
+Danny Ings,West Ham,"FW,MF",32,1,2,2.3,1.3,18.570600000000002,EUR 18.6M
+Danny Ward,Leicester City,GK,31,0,0,0.0,0.0,5.85,EUR 5.8M
+Danny Welbeck,Brighton,FW,33,10,4,9.6,1.4,22.8105,EUR 22.8M
+Dara O'Shea,Ipswich Town,DF,25,0,2,1.3,0.5,11.3184,EUR 11.3M
+Darwin Núñez,Liverpool,FW,25,5,2,5.8,1.3,24.32025,EUR 24.3M
+David Brooks,Bournemouth,"FW,MF",27,2,0,2.5,1.9,20.975400000000004,EUR 21.0M
+David Raya,Arsenal,GK,28,0,0,0.0,0.0,6.3,EUR 6.3M
+Dean Henderson,Crystal Palace,GK,27,0,0,0.0,0.2,6.4629,EUR 6.5M
+Dean Huijsen,Bournemouth,DF,19,3,2,1.9,2.0,13.81896,EUR 13.8M
+Declan Rice,Arsenal,MF,25,4,7,3.5,6.6,17.361,EUR 17.4M
+Dejan Kulusevski,Tottenham,"MF,FW",24,7,4,4.2,6.2,26.9928,EUR 27.0M
+Destiny Udogie,Tottenham,DF,21,0,1,0.3,1.5,12.148079999999998,EUR 12.1M
+Diego Carlos,Aston Villa,DF,31,0,0,0.6,0.0,9.41616,EUR 9.4M
+Diego Gómez,Brighton,MF,21,1,0,0.9,0.7,15.2292,EUR 15.2M
+Diogo Dalot,Manchester Utd,DF,25,0,3,2.0,2.0,11.718,EUR 11.7M
+Diogo Jota,Liverpool,FW,27,6,3,7.9,1.8,24.419700000000002,EUR 24.4M
+Djed Spence,Tottenham,DF,23,1,2,0.6,1.8,12.11472,EUR 12.1M
+Dominic Calvert-Lewin,Everton,FW,27,3,1,6.7,0.6,22.213800000000003,EUR 22.2M
+Dominic Solanke,Tottenham,FW,26,9,3,10.9,2.9,26.9874,EUR 27.0M
+Dominik Szoboszlai,Liverpool,MF,23,6,6,7.3,7.4,19.1337,EUR 19.1M
+Donyell Malen,Aston Villa,FW,25,3,0,2.2,0.2,21.951,EUR 22.0M
+Dwight McNeil,Everton,"MF,FW",24,4,6,1.1,5.2,25.5231,EUR 25.5M
+Eberechi Eze,Crystal Palace,"MF,FW",26,8,8,10.5,6.2,28.6506,EUR 28.7M
+Eddie Nketiah,Crystal Palace,"FW,MF",25,3,1,5.8,1.7,23.287499999999998,EUR 23.3M
+Ederson,Manchester City,GK,30,0,4,0.0,1.5,6.449999999999999,EUR 6.4M
+Edmond-Paris Maghoma,Brentford,"MF,FW",23,0,0,0.1,0.1,21.1923,EUR 21.2M
+Edson Álvarez,West Ham,MF,26,0,1,0.4,0.8,13.5564,EUR 13.6M
+Elliot Anderson,Nott'ham Forest,MF,21,2,6,2.1,3.3,17.404799999999998,EUR 17.4M
+Emerson Palmieri,West Ham,DF,29,2,1,2.0,1.5,10.7256,EUR 10.7M
+Emi Buendía,Aston Villa,"MF,FW",27,0,0,0.7,0.0,19.48545,EUR 19.5M
+Emil Krafth,Newcastle Utd,DF,29,0,0,0.0,0.1,9.849839999999999,EUR 9.8M
+Emile Smith Rowe,Fulham,MF,24,6,3,4.5,1.4,16.891199999999998,EUR 16.9M
+Emiliano Martínez,Aston Villa,GK,31,0,0,0.0,0.5,5.879249999999999,EUR 5.9M
+Emmanuel Agbadou,Wolves,DF,27,1,0,0.8,0.2,10.6296,EUR 10.6M
+Enes Ünal,Bournemouth,"FW,MF",27,2,1,2.7,0.4,21.014100000000003,EUR 21.0M
+Enzo Fernández,Chelsea,MF,23,6,7,6.1,6.8,19.0914,EUR 19.1M
+Erling Haaland,Manchester City,FW,24,22,3,22.0,3.0,35.914500000000004,EUR 35.9M
+Ethan Nwaneri,Arsenal,"FW,MF",17,4,2,1.2,1.2,27.045900000000003,EUR 27.0M
+Ethan Pinnock,Brentford,DF,31,2,0,1.1,1.2,9.949679999999999,EUR 9.9M
+Evan Ferguson,Brighton,FW,19,1,0,0.5,0.4,23.61555,EUR 23.6M
+Evanilson,Bournemouth,FW,24,10,1,12.5,1.9,28.1313,EUR 28.1M
+Ezri Konsa,Aston Villa,DF,26,2,0,1.3,0.4,11.16192,EUR 11.2M
+Fabian Schär,Newcastle Utd,DF,32,4,0,3.7,0.4,10.22352,EUR 10.2M
+Fabio Carvalho,Brentford,"FW,MF",21,2,1,2.5,0.7,23.96835,EUR 24.0M
+Facundo Buonanotte,Leicester City,"FW,MF",19,5,2,3.9,3.1,27.54,EUR 27.5M
+Federico Chiesa,Liverpool,FW,26,0,0,0.3,0.2,19.898999999999997,EUR 19.9M
+Ferdi Kadioglu,Brighton,"DF,MF",24,1,0,0.4,0.2,14.1588,EUR 14.2M
+Filip Jørgensen,Chelsea,GK,22,0,0,0.0,0.0,7.199999999999999,EUR 7.2M
+Flynn Downes,Southampton,MF,25,1,0,0.6,1.1,13.9995,EUR 14.0M
+Fraser Forster,Tottenham,GK,36,0,0,0.0,0.0,5.1,EUR 5.1M
+Gabriel Jesus,Arsenal,FW,27,3,0,3.0,0.7,21.226950000000002,EUR 21.2M
+Gabriel Magalhães,Arsenal,DF,26,3,1,2.6,0.9,11.721600000000002,EUR 11.7M
+Gabriel Martinelli,Arsenal,"FW,MF",23,8,4,7.4,5.0,28.4256,EUR 28.4M
+George Hirst,Ipswich Town,FW,25,3,1,2.1,0.3,22.254749999999998,EUR 22.3M
+Georginio Rutter,Brighton,"MF,FW",22,5,3,4.6,2.5,26.265599999999996,EUR 26.3M
+Gonçalo Guedes,Wolves,"MF,FW",27,2,4,3.2,1.3,22.15575,EUR 22.2M
+Guglielmo Vicario,Tottenham,GK,27,0,0,0.0,0.0,6.45,EUR 6.5M
+Guido Rodríguez,West Ham,MF,30,0,1,0.2,0.2,12.227999999999998,EUR 12.2M
+Hamza Choudhury,Leicester City,"MF,DF",26,0,0,0.0,0.4,13.2528,EUR 13.3M
+Harrison Reed,Fulham,MF,29,0,0,0.2,0.1,12.3369,EUR 12.3M
+Harry Amass,Manchester Utd,DF,17,0,0,0.1,0.0,12.732719999999999,EUR 12.7M
+Harry Clarke,Ipswich Town,DF,23,0,0,0.1,0.0,11.291279999999999,EUR 11.3M
+Harry Maguire,Manchester Utd,DF,31,1,0,1.8,0.6,9.77184,EUR 9.8M
+Harry Toffolo,Nott'ham Forest,DF,28,0,0,0.0,0.0,10.08,EUR 10.1M
+Harry Wilson,Fulham,"FW,MF",27,6,1,4.2,1.1,22.9878,EUR 23.0M
+Harry Winks,Leicester City,MF,28,0,2,0.2,1.2,13.1544,EUR 13.2M
+Harvey Barnes,Newcastle Utd,FW,26,9,4,7.2,4.0,26.769599999999997,EUR 26.8M
+Harvey Elliott,Liverpool,MF,21,1,2,1.8,1.1,15.861299999999998,EUR 15.9M
+Hwang Hee-chan,Wolves,"MF,FW",28,2,0,0.8,0.1,19.826099999999997,EUR 19.8M
+Hákon Valdimarsson,Brentford,GK,22,0,0,0.0,0.0,7.199999999999999,EUR 7.2M
+Ian Maatsen,Aston Villa,DF,22,1,2,0.9,2.7,12.510720000000001,EUR 12.5M
+Ibrahim Sangaré,Nott'ham Forest,MF,26,0,1,0.0,0.4,13.4508,EUR 13.5M
+Ibrahima Konaté,Liverpool,DF,25,1,2,1.7,1.0,11.6316,EUR 11.6M
+Idrissa Gana Gueye,Everton,MF,34,0,3,1.1,1.7,11.5884,EUR 11.6M
+Igor,Brighton,DF,26,0,0,0.0,0.2,10.58112,EUR 10.6M
+Iliman Ndiaye,Everton,FW,24,9,0,6.2,1.9,26.102700000000002,EUR 26.1M
+Illia Zabarnyi,Bournemouth,DF,21,0,1,1.3,0.7,12.171599999999998,EUR 12.2M
+Ismaila Sarr,Crystal Palace,MF,26,8,6,10.7,8.5,19.0344,EUR 19.0M
+Issa Diop,Fulham,DF,27,0,0,0.5,0.1,10.381920000000001,EUR 10.4M
+Jack Clarke,Ipswich Town,"FW,MF",23,0,4,1.2,2.3,23.159249999999997,EUR 23.2M
+Jack Grealish,Manchester City,"FW,MF",28,1,1,1.1,1.8,20.1096,EUR 20.1M
+Jack Harrison,Everton,FW,27,1,0,3.5,3.7,21.130200000000002,EUR 21.1M
+Jack Hinshelwood,Brighton,"MF,DF",19,5,2,2.7,1.5,17.9316,EUR 17.9M
+Jack Stephens,Southampton,DF,30,1,0,0.6,0.2,9.8688,EUR 9.9M
+Jack Taylor,Ipswich Town,MF,26,1,0,0.7,0.5,13.6224,EUR 13.6M
+Jacob Greaves,Ipswich Town,DF,23,1,0,1.3,0.3,11.68608,EUR 11.7M
+Jacob Murphy,Newcastle Utd,FW,29,8,12,5.7,8.9,27.4167,EUR 27.4M
+Jacob Ramsey,Aston Villa,"FW,MF",23,1,3,1.6,2.3,23.3496,EUR 23.3M
+Jaden Philogene Bidace,Ipswich Town,"FW,DF",22,2,0,2.0,0.2,22.9392,EUR 22.9M
+Jadon Sancho,Chelsea,FW,24,3,4,2.2,3.7,24.4053,EUR 24.4M
+Jahmai Simpson-Pusey,Manchester City,DF,18,0,0,0.0,0.0,12.48,EUR 12.5M
+Jake O'Brien,Everton,DF,23,2,0,0.8,0.6,11.88912,EUR 11.9M
+Jakub Kiwior,Arsenal,DF,24,1,0,0.2,0.3,11.315999999999999,EUR 11.3M
+Jakub Stolarczyk,Leicester City,GK,23,0,0,0.0,0.0,7.05,EUR 7.0M
+James Bree,Southampton,DF,26,0,1,0.1,0.9,10.824,EUR 10.8M
+James Garner,Everton,"MF,DF",23,0,1,0.7,1.4,14.6076,EUR 14.6M
+James Hill,Bournemouth,DF,22,0,1,0.3,0.3,11.761919999999998,EUR 11.8M
+James Justin,Leicester City,DF,26,2,2,1.5,0.8,11.54208,EUR 11.5M
+James Maddison,Tottenham,MF,27,9,7,5.8,4.2,17.866500000000002,EUR 17.9M
+James Mcatee,Manchester City,"MF,FW",21,3,0,2.8,0.5,24.10065,EUR 24.1M
+James Milner,Brighton,MF,38,0,0,0.2,0.2,9.638399999999999,EUR 9.6M
+James Tarkowski,Everton,DF,31,1,1,1.3,2.9,10.08072,EUR 10.1M
+James Ward-Prowse,Nott'ham Forest,MF,29,0,1,0.1,1.1,12.6321,EUR 12.6M
+Jamie Vardy,Leicester City,FW,37,9,4,11.2,3.0,20.522699999999997,EUR 20.5M
+Jan Bednarek,Southampton,DF,28,2,0,0.7,0.5,10.60416,EUR 10.6M
+Jan Paul van Hecke,Brighton,DF,24,1,1,1.3,1.5,11.73552,EUR 11.7M
+Jannik Vestergaard,Leicester City,DF,31,0,0,0.1,0.1,9.37872,EUR 9.4M
+Jarell Quansah,Liverpool,DF,21,0,0,0.1,0.1,11.78352,EUR 11.8M
+Jarrad Branthwaite,Everton,DF,22,0,1,1.2,0.7,11.91168,EUR 11.9M
+Jarrod Bowen,West Ham,"FW,MF",27,13,8,8.6,6.8,29.682900000000004,EUR 29.7M
+Jason Steele,Brighton,GK,33,0,0,0.0,0.0,5.549999999999999,EUR 5.5M
+Jay Robinson,Southampton,"MF,FW",17,0,0,0.0,0.7,24.016949999999998,EUR 24.0M
+Jean-Clair Todibo,West Ham,DF,24,0,0,0.4,0.0,11.084159999999999,EUR 11.1M
+Jean-Philippe Mateta,Crystal Palace,FW,27,14,2,13.5,3.2,28.579950000000004,EUR 28.6M
+Jean-Ricner Bellegarde,Wolves,"MF,FW",26,2,7,1.5,3.8,23.7204,EUR 23.7M
+Jefferson Lerma,Crystal Palace,"MF,DF",29,0,1,1.1,1.6,12.816600000000001,EUR 12.8M
+Jeffrey Schlupp,Crystal Palace,"MF,DF",31,0,0,0.2,0.2,11.746799999999999,EUR 11.7M
+Jens Cajuste,Ipswich Town,MF,24,1,1,0.7,0.8,14.49,EUR 14.5M
+Jeremy Doku,Manchester City,"FW,MF",22,3,6,1.3,4.8,26.1576,EUR 26.2M
+Jeremy Monga,Leicester City,"FW,MF",15,0,0,0.2,0.0,24.7995,EUR 24.8M
+Jesper Lindstrøm,Everton,FW,24,0,1,2.1,2.0,21.8592,EUR 21.9M
+Joachim Andersen,Fulham,DF,28,0,0,1.0,0.5,10.2312,EUR 10.2M
+Joe Aribo,Southampton,"MF,DF",28,3,0,2.7,1.6,13.8978,EUR 13.9M
+Joe Gomez,Liverpool,DF,27,0,0,0.3,0.1,10.36128,EUR 10.4M
+Joe Lumley,Southampton,GK,29,0,0,0.0,0.0,6.15,EUR 6.2M
+Joe Willock,Newcastle Utd,"MF,FW",24,0,2,1.6,2.1,22.086899999999996,EUR 22.1M
+Joelinton,Newcastle Utd,"MF,FW",27,4,3,3.9,2.5,23.007150000000003,EUR 23.0M
+John McGinn,Aston Villa,"MF,FW",29,1,4,3.1,3.5,21.1437,EUR 21.1M
+John Stones,Manchester City,"DF,MF",30,2,0,0.4,0.1,12.54,EUR 12.5M
+Jonny Evans,Manchester Utd,DF,36,0,0,0.1,0.0,8.168159999999999,EUR 8.2M
+Jordan Ayew,Leicester City,"FW,MF",32,5,0,3.2,1.1,19.5453,EUR 19.5M
+Jordan Pickford,Everton,GK,30,0,1,0.0,0.4,6.113999999999999,EUR 6.1M
+Jorge Cuenca,Fulham,DF,24,0,0,0.0,0.0,11.04,EUR 11.0M
+Jorginho,Arsenal,MF,32,0,0,0.1,0.4,11.457,EUR 11.5M
+Joshua Acheampong,Chelsea,DF,18,0,0,0.2,0.0,12.50496,EUR 12.5M
+Joshua King,Fulham,MF,17,0,0,0.3,0.4,16.0113,EUR 16.0M
+Joshua Zirkzee,Manchester Utd,"FW,MF",23,3,1,4.8,1.5,24.068699999999996,EUR 24.1M
+José Sá,Wolves,GK,31,0,0,0.0,0.2,5.8617,EUR 5.9M
+Jota Silva,Nott'ham Forest,"FW,MF",24,3,1,2.1,2.9,23.287499999999998,EUR 23.3M
+João Félix,Chelsea,"FW,MF",24,1,1,2.2,1.0,22.086899999999996,EUR 22.1M
+João Gomes,Wolves,MF,23,3,1,2.9,1.2,15.735600000000002,EUR 15.7M
+João Pedro,Brighton,"FW,MF",22,10,6,8.9,5.0,30.8664,EUR 30.9M
+Joël Veltman,Brighton,DF,32,0,0,0.5,0.5,9.211200000000002,EUR 9.2M
+Joško Gvardiol,Manchester City,DF,22,5,0,4.6,2.1,13.44384,EUR 13.4M
+Julian Araujo,Bournemouth,DF,22,0,0,0.0,0.1,11.531519999999999,EUR 11.5M
+Julio Enciso,Brighton,"MF,FW",20,0,0,1.0,0.2,22.77,EUR 22.8M
+Jurriën Timber,Arsenal,DF,23,1,3,1.2,0.8,12.2388,EUR 12.2M
+Justin Devenny,Crystal Palace,MF,20,1,1,0.8,0.6,15.735,EUR 15.7M
+Justin Kluivert,Bournemouth,MF,25,12,6,10.3,4.8,19.9935,EUR 20.0M
+Jáder Durán,Aston Villa,FW,20,7,0,4.9,0.2,26.797500000000003,EUR 26.8M
+Jørgen Strand Larsen,Wolves,FW,24,14,4,10.3,3.0,30.4911,EUR 30.5M
+Kai Havertz,Arsenal,"FW,MF",25,9,3,9.5,2.4,27.216,EUR 27.2M
+Kalvin Phillips,Ipswich Town,MF,28,0,0,0.4,0.2,12.6756,EUR 12.7M
+Kamaldeen Sulemana,Southampton,"FW,MF",22,1,1,1.5,1.0,22.895999999999997,EUR 22.9M
+Kaoru Mitoma,Brighton,"FW,MF",27,10,4,9.2,4.6,27.051300000000005,EUR 27.1M
+Kasey McAteer,Leicester City,FW,22,1,1,1.0,0.7,22.7232,EUR 22.7M
+Keane Lewis-Potter,Brentford,"DF,FW",23,1,3,3.1,3.2,23.857200000000002,EUR 23.9M
+Kenny Tete,Fulham,DF,28,0,2,1.4,0.9,10.614239999999999,EUR 10.6M
+Kepa Arrizabalaga,Bournemouth,GK,29,0,0,0.1,0.0,6.156149999999999,EUR 6.2M
+Kevin Danso,Tottenham,DF,25,0,0,0.4,0.1,10.854,EUR 10.9M
+Kevin De Bruyne,Manchester City,"MF,FW",33,4,7,5.1,8.0,21.9114,EUR 21.9M
+Kevin Schade,Brentford,FW,22,11,2,8.2,3.7,29.570399999999996,EUR 29.6M
+Kieran Tierney,Arsenal,"DF,FW",27,1,0,0.4,1.4,20.085300000000004,EUR 20.1M
+Kieran Trippier,Newcastle Utd,DF,33,0,3,0.1,1.4,9.412799999999999,EUR 9.4M
+Kiernan Dewsbury-Hall,Chelsea,"MF,FW",25,0,1,0.2,1.1,20.817,EUR 20.8M
+Kobbie Mainoo,Manchester Utd,MF,19,0,0,0.7,1.6,15.6519,EUR 15.7M
+Konstantinos Mavropanos,West Ham,DF,26,0,0,1.5,0.5,10.7712,EUR 10.8M
+Kosta Nedeljković,Aston Villa,DF,18,0,0,0.0,0.0,12.48,EUR 12.5M
+Kostas Tsimikas,Liverpool,DF,28,0,1,0.4,2.1,10.4832,EUR 10.5M
+Kristoffer Ajer,Brentford,DF,26,0,0,1.0,1.2,10.79232,EUR 10.8M
+Kyle Walker,Manchester City,DF,34,0,0,0.1,0.4,8.6832,EUR 8.7M
+Kyle Walker-Peters,Southampton,DF,27,0,2,0.8,2.8,11.00112,EUR 11.0M
+Lamare Bogarde,Aston Villa,"DF,MF",20,0,0,0.0,0.1,15.014999999999999,EUR 15.0M
+Leandro Trossard,Arsenal,FW,29,8,7,7.2,6.1,25.793100000000003,EUR 25.8M
+Leif Davis,Ipswich Town,DF,24,1,2,1.0,4.9,12.24336,EUR 12.2M
+Leny Yoro,Manchester Utd,DF,18,0,0,0.7,0.1,12.57984,EUR 12.6M
+Leon Bailey,Aston Villa,"FW,MF",26,1,2,1.7,1.5,21.423600000000004,EUR 21.4M
+Lesley Ugochukwu,Southampton,MF,20,1,1,0.9,1.0,15.81,EUR 15.8M
+Levi Colwill,Chelsea,DF,21,2,1,1.9,1.1,12.759599999999999,EUR 12.8M
+Lewis Cook,Bournemouth,"MF,DF",27,1,3,0.9,4.1,14.3835,EUR 14.4M
+Lewis Dunk,Brighton,DF,32,0,0,0.8,0.5,9.23856,EUR 9.2M
+Lewis Hall,Newcastle Utd,DF,19,0,4,0.4,4.3,13.54968,EUR 13.5M
+Lewis Miley,Newcastle Utd,MF,18,1,0,0.5,0.0,15.99,EUR 16.0M
+Liam Delap,Ipswich Town,FW,21,12,2,9.3,1.9,30.473100000000002,EUR 30.5M
+Lisandro Martínez,Manchester Utd,DF,26,2,1,1.3,1.1,11.39424,EUR 11.4M
+Lloyd Kelly,Newcastle Utd,DF,25,0,1,0.4,0.5,11.0592,EUR 11.1M
+Lucas Bergvall,Tottenham,MF,18,0,1,0.7,0.6,16.036800000000003,EUR 16.0M
+Lucas Digne,Aston Villa,DF,31,0,4,0.8,4.7,10.436399999999999,EUR 10.4M
+Lucas Paquetá,West Ham,"MF,FW",26,4,0,5.3,3.1,23.0472,EUR 23.0M
+Luis Díaz,Liverpool,FW,27,13,5,12.0,5.0,29.121750000000006,EUR 29.1M
+Luis Guilherme,West Ham,"MF,FW",18,0,0,0.4,0.1,23.517,EUR 23.5M
+Luis Sinisterra,Bournemouth,"FW,MF",25,1,1,1.2,1.4,21.48525,EUR 21.5M
+Luke Shaw,Manchester Utd,DF,29,0,0,0.0,0.7,9.908879999999998,EUR 9.9M
+Luke Thomas,Leicester City,DF,23,0,0,0.4,0.5,11.381519999999998,EUR 11.4M
+Luke Woolfenden,Ipswich Town,DF,25,0,0,0.0,0.0,10.8,EUR 10.8M
+Mads Hermansen,Leicester City,GK,24,0,0,0.0,0.0,6.8999999999999995,EUR 6.9M
+Mads Roerslev,Brentford,DF,25,0,2,0.2,3.0,11.469600000000002,EUR 11.5M
+Malo Gusto,Chelsea,DF,21,0,1,1.7,1.4,12.30096,EUR 12.3M
+Manuel Akanji,Manchester City,DF,29,0,0,1.6,0.4,10.0368,EUR 10.0M
+Manuel Ugarte,Manchester Utd,MF,23,1,2,1.0,1.1,15.101099999999999,EUR 15.1M
+Marc Cucurella,Chelsea,DF,26,5,1,2.8,2.1,12.29184,EUR 12.3M
+Marc Guéhi,Crystal Palace,DF,24,3,2,2.0,1.8,12.45312,EUR 12.5M
+Marco Asensio,Aston Villa,MF,28,3,1,4.4,1.0,14.2254,EUR 14.2M
+Marcos Senesi,Bournemouth,DF,27,0,0,0.8,0.2,10.4232,EUR 10.4M
+Marcus Rashford,Aston Villa,FW,26,2,2,3.1,2.3,22.255200000000002,EUR 22.3M
+Marcus Tavernier,Bournemouth,"FW,MF",25,3,5,5.5,4.0,24.9075,EUR 24.9M
+Mario Lemina,Wolves,"MF,DF",30,1,3,1.4,1.1,13.080000000000002,EUR 13.1M
+Mark Flekken,Brentford,GK,31,0,2,0.0,0.5,6.054749999999999,EUR 6.1M
+Mark Travers,Bournemouth,GK,25,0,0,0.0,0.0,6.75,EUR 6.8M
+Marshall Munetsi,Wolves,"MF,FW",28,2,1,3.3,1.8,20.9034,EUR 20.9M
+Martin Dúbravka,Newcastle Utd,GK,35,0,0,0.0,0.0,5.25,EUR 5.2M
+Martin Ødegaard,Arsenal,MF,25,3,8,4.8,5.4,17.307000000000002,EUR 17.3M
+Mason Mount,Manchester Utd,MF,25,1,0,3.2,0.6,14.283000000000001,EUR 14.3M
+Massimo Luongo,Ipswich Town,MF,31,0,0,0.0,0.0,11.7,EUR 11.7M
+Mateo Kovačić,Manchester City,MF,30,6,2,1.9,3.6,14.46,EUR 14.5M
+Mateus Fernandes,Southampton,MF,20,2,4,4.0,3.0,17.549999999999997,EUR 17.5M
+Matheus Cunha,Wolves,"MF,FW",25,15,6,8.6,7.7,31.448249999999998,EUR 31.4M
+Matheus Nunes,Manchester City,"DF,MF",25,1,6,1.2,4.4,15.741,EUR 15.7M
+Mathias Jensen,Brentford,MF,28,0,2,0.2,1.7,13.2174,EUR 13.2M
+Mathys Tel,Tottenham,FW,19,2,1,3.0,2.6,25.49745,EUR 25.5M
+Mats Wieffer,Brighton,"DF,MF",24,1,3,0.8,1.6,15.028199999999998,EUR 15.0M
+Matt Doherty,Wolves,DF,32,2,1,1.0,1.5,9.849600000000002,EUR 9.8M
+Matt O'Riley,Brighton,MF,23,2,2,2.8,2.4,15.820199999999998,EUR 15.8M
+Matthijs de Ligt,Manchester Utd,DF,24,2,0,2.5,0.3,11.79072,EUR 11.8M
+Matty Cash,Aston Villa,DF,26,1,1,0.5,1.1,11.098559999999999,EUR 11.1M
+Matz Sels,Nott'ham Forest,GK,32,0,0,0.0,0.4,5.722800000000001,EUR 5.7M
+Max Kilman,West Ham,DF,27,0,1,1.6,1.2,10.76376,EUR 10.8M
+Maxence Lacroix,Crystal Palace,DF,24,1,1,3.4,1.0,11.912159999999998,EUR 11.9M
+Michael Kayode,Brentford,DF,20,0,1,0.2,1.2,12.347999999999999,EUR 12.3M
+Michael Keane,Everton,DF,31,3,0,0.6,0.1,9.987119999999999,EUR 10.0M
+Michail Antonio,West Ham,FW,34,1,1,2.2,1.6,17.382600000000004,EUR 17.4M
+Micky van de Ven,Tottenham,DF,23,0,2,0.6,1.2,11.821439999999999,EUR 11.8M
+Miguel Almirón,Newcastle Utd,FW,30,0,0,0.5,0.3,18.144,EUR 18.1M
+Mikel Merino,Arsenal,"MF,FW",28,7,2,5.9,2.0,23.6061,EUR 23.6M
+Mikey Moore,Tottenham,FW,16,0,1,0.2,0.3,24.786,EUR 24.8M
+Mikkel Damsgaard,Brentford,"MF,FW",24,2,10,2.8,8.4,26.9514,EUR 27.0M
+Milos Kerkez,Bournemouth,DF,20,2,5,0.6,3.9,13.919999999999998,EUR 13.9M
+Mohamed Salah,Liverpool,FW,32,29,18,25.2,14.2,38.3724,EUR 38.4M
+Mohammed Kudus,West Ham,"FW,MF",23,5,3,6.9,3.1,26.33175,EUR 26.3M
+Moisés Caicedo,Chelsea,"MF,DF",22,1,2,0.8,3.0,15.6672,EUR 15.7M
+Morato,Nott'ham Forest,DF,23,0,0,0.2,0.0,11.30256,EUR 11.3M
+Morgan Gibbs-White,Nott'ham Forest,MF,24,7,8,6.3,5.0,18.9474,EUR 18.9M
+Morgan Rogers,Aston Villa,"FW,MF",22,8,10,6.6,7.8,31.406399999999994,EUR 31.4M
+Murillo,Nott'ham Forest,DF,22,2,0,1.4,1.2,12.28032,EUR 12.3M
+Mykhailo Mudryk,Chelsea,FW,23,0,0,0.3,1.0,21.424949999999995,EUR 21.4M
+Myles Lewis-Skelly,Arsenal,DF,17,1,0,0.2,0.4,13.05072,EUR 13.1M
+Nathan Aké,Manchester City,DF,29,0,0,0.2,0.0,9.859679999999999,EUR 9.9M
+Nathan Broadhead,Ipswich Town,"MF,FW",26,2,0,1.7,0.7,21.067200000000003,EUR 21.1M
+Nathan Collins,Brentford,DF,23,2,3,2.5,1.8,12.723840000000001,EUR 12.7M
+Nathan Patterson,Everton,DF,22,0,1,0.1,0.4,11.750399999999999,EUR 11.8M
+Nathan Wood-Gordon,Southampton,DF,22,0,0,0.2,0.0,11.54304,EUR 11.5M
+Nathaniel Clyne,Crystal Palace,"DF,MF",33,0,0,0.0,0.3,11.133299999999997,EUR 11.1M
+Neco Williams,Nott'ham Forest,DF,23,1,3,2.3,1.6,12.45312,EUR 12.5M
+Neto,Bournemouth,GK,35,0,0,0.0,0.0,5.25,EUR 5.2M
+Nick Pope,Newcastle Utd,GK,32,0,0,0.0,0.0,5.700000000000001,EUR 5.7M
+Niclas Füllkrug,West Ham,FW,31,3,2,2.2,1.9,19.84905,EUR 19.8M
+Nico O’Reilly,Manchester City,DF,19,2,0,1.3,0.4,12.93768,EUR 12.9M
+Nicolas Jackson,Chelsea,FW,23,10,5,12.3,4.3,30.477149999999998,EUR 30.5M
+Nicolás Domínguez,Nott'ham Forest,"MF,FW",26,0,1,1.5,1.3,20.6514,EUR 20.7M
+Nicolás González,Manchester City,MF,22,1,0,0.5,0.1,14.774399999999998,EUR 14.8M
+Nikola Milenković,Nott'ham Forest,DF,26,5,2,4.0,1.1,12.47136,EUR 12.5M
+Noni Madueke,Chelsea,FW,22,7,3,9.6,4.2,28.576799999999995,EUR 28.6M
+Noussair Mazraoui,Manchester Utd,DF,26,0,1,0.7,1.5,10.95072,EUR 11.0M
+Nélson Semedo,Wolves,DF,30,0,4,0.9,2.8,10.5312,EUR 10.5M
+Ola Aina,Nott'ham Forest,DF,27,2,1,0.6,1.4,11.094,EUR 11.1M
+Oleksandr Zinchenko,Arsenal,"DF,MF",27,0,1,0.6,0.2,13.1967,EUR 13.2M
+Oliver Scarles,West Ham,"DF,FW",18,0,0,0.1,0.1,23.446800000000003,EUR 23.4M
+Oliver Skipp,Leicester City,MF,23,0,0,0.4,0.3,14.198699999999999,EUR 14.2M
+Ollie Watkins,Aston Villa,FW,28,16,8,15.3,3.3,30.7314,EUR 30.7M
+Omar Marmoush,Manchester City,"FW,MF",25,7,0,5.5,2.8,24.76575,EUR 24.8M
+Omari Hutchinson,Ipswich Town,"MF,FW",20,3,2,2.9,3.5,25.964999999999996,EUR 26.0M
+Orel Mangala,Everton,MF,26,1,0,1.1,0.6,13.6884,EUR 13.7M
+Pablo Sarabia,Wolves,"MF,FW",32,3,2,2.9,1.8,19.442700000000002,EUR 19.4M
+Pape Matar Sarr,Tottenham,MF,21,3,2,3.7,1.6,16.8021,EUR 16.8M
+Patrick Dorgu,Manchester Utd,DF,19,0,0,0.4,0.7,12.37464,EUR 12.4M
+Patson Daka,Leicester City,"FW,MF",25,1,0,1.3,0.1,20.9385,EUR 20.9M
+Pau Torres,Aston Villa,DF,27,0,0,0.5,0.1,10.381920000000001,EUR 10.4M
+Paul Onuachu,Southampton,FW,30,4,1,3.6,0.5,20.448,EUR 20.4M
+Pedro Neto,Chelsea,FW,24,4,6,3.5,6.7,26.3304,EUR 26.3M
+Pedro Porro,Tottenham,DF,24,2,6,1.6,5.0,13.203839999999998,EUR 13.2M
+Pervis Estupiñán,Brighton,DF,26,1,1,1.2,2.1,11.278080000000001,EUR 11.3M
+Phil Foden,Manchester City,"MF,FW",24,7,2,5.2,4.8,26.288999999999998,EUR 26.3M
+Philip Billing,Bournemouth,MF,28,0,0,0.6,1.1,12.814199999999998,EUR 12.8M
+Radu Drăgușin,Tottenham,DF,22,0,0,0.1,0.4,11.577599999999999,EUR 11.6M
+Raheem Sterling,Arsenal,"FW,MF",29,0,2,1.4,0.5,19.354049999999997,EUR 19.4M
+Ramón Sosa,Nott'ham Forest,"FW,MF",24,1,0,1.0,0.5,21.4245,EUR 21.4M
+Rasmus Højlund,Manchester Utd,FW,21,4,0,5.3,1.8,25.379550000000002,EUR 25.4M
+Rayan Aït-Nouri,Wolves,DF,23,4,7,2.7,5.5,14.291759999999998,EUR 14.3M
+Raúl Jiménez,Fulham,FW,33,12,3,12.0,3.3,23.942700000000002,EUR 23.9M
+Reece James,Chelsea,"DF,MF",24,1,1,0.4,0.7,14.4348,EUR 14.4M
+Reiss Nelson,Fulham,FW,24,1,1,1.1,1.0,21.8592,EUR 21.9M
+Renato Veiga,Chelsea,"DF,MF",21,0,0,0.1,0.0,14.714699999999997,EUR 14.7M
+Ricardo Pereira,Leicester City,DF,30,0,0,0.1,0.0,9.609599999999999,EUR 9.6M
+Riccardo Calafiori,Arsenal,DF,22,2,1,0.9,0.3,12.291839999999999,EUR 12.3M
+Richarlison,Tottenham,FW,27,4,1,3.7,0.9,22.07835,EUR 22.1M
+Rico Henry,Brentford,DF,27,0,0,0.0,0.0,10.32,EUR 10.3M
+Rico Lewis,Manchester City,"DF,MF",19,1,2,1.4,0.3,16.3251,EUR 16.3M
+Robert Sánchez,Chelsea,GK,26,0,0,0.0,0.1,6.6066,EUR 6.6M
+Robin Olsen,Aston Villa,GK,34,0,0,0.0,0.0,5.4,EUR 5.4M
+Rodrigo Bentancur,Tottenham,MF,27,2,0,1.3,0.4,13.635299999999999,EUR 13.6M
+Rodrigo Gomes,Wolves,"DF,FW",21,2,0,0.7,0.9,23.2848,EUR 23.3M
+Rodrigo Muniz,Fulham,FW,23,8,1,5.8,0.7,26.226,EUR 26.2M
+Romain Esse,Crystal Palace,MF,19,1,1,0.3,0.4,15.9426,EUR 15.9M
+Roméo Lavia,Chelsea,MF,20,0,1,0.3,0.7,15.374999999999998,EUR 15.4M
+Ross Barkley,Aston Villa,MF,30,3,1,1.8,0.6,13.187999999999999,EUR 13.2M
+Ross Stewart,Southampton,FW,28,1,0,1.1,0.0,19.485899999999997,EUR 19.5M
+Ryan Christie,Bournemouth,MF,29,2,3,1.8,3.5,13.997399999999999,EUR 14.0M
+Ryan Fraser,Southampton,"FW,DF",30,0,0,0.0,0.1,18.017999999999997,EUR 18.0M
+Ryan Gravenberch,Liverpool,MF,22,0,4,1.1,3.1,15.8688,EUR 15.9M
+Ryan Manning,Southampton,"DF,MF",28,0,1,0.3,3.2,13.23,EUR 13.2M
+Ryan Sessegnon,Fulham,"FW,DF",24,4,2,1.6,1.1,23.535899999999998,EUR 23.5M
+Ryan Yates,Nott'ham Forest,MF,26,2,1,2.3,1.2,14.388000000000002,EUR 14.4M
+Rúben Dias,Manchester City,DF,27,0,0,1.5,0.3,10.50576,EUR 10.5M
+Sam Johnstone,Wolves,GK,31,0,0,0.0,0.0,5.85,EUR 5.8M
+Sam Morsy,Ipswich Town,MF,32,1,1,0.4,1.2,11.9814,EUR 12.0M
+Sammie Szmodics,Ipswich Town,"FW,MF",28,4,0,3.4,0.2,21.0924,EUR 21.1M
+Sander Berge,Fulham,MF,26,0,0,0.4,0.6,13.332,EUR 13.3M
+Sandro Tonali,Newcastle Utd,MF,24,4,2,4.4,2.2,16.228799999999996,EUR 16.2M
+Santiago Bueno,Wolves,DF,25,0,0,0.4,0.0,10.843200000000001,EUR 10.8M
+Saša Lukić,Fulham,MF,27,0,2,1.2,2.7,13.790099999999999,EUR 13.8M
+Sean Longstaff,Newcastle Utd,MF,26,0,0,0.6,0.2,13.305600000000002,EUR 13.3M
+Sepp van den Berg,Brentford,DF,22,0,0,2.0,0.8,11.84256,EUR 11.8M
+Sergio Reguilón,Tottenham,DF,27,0,0,0.1,0.0,10.330319999999999,EUR 10.3M
+Simon Adingra,Brighton,"FW,MF",22,2,2,2.5,2.5,24.192,EUR 24.2M
+Solly March,Brighton,"FW,MF",30,0,0,0.1,0.3,18.072,EUR 18.1M
+Son Heung-min,Tottenham,FW,32,7,9,7.2,8.2,24.435900000000004,EUR 24.4M
+Stefan Ortega,Manchester City,GK,31,0,0,0.0,0.0,5.85,EUR 5.8M
+Stephy Mavididi,Leicester City,FW,26,4,1,1.8,2.6,22.552200000000003,EUR 22.6M
+Sven Botman,Newcastle Utd,DF,24,0,0,0.5,0.5,11.1504,EUR 11.2M
+Sávio,Manchester City,"FW,MF",20,1,8,5.0,6.9,28.327499999999997,EUR 28.3M
+Séamus Coleman,Everton,DF,35,0,0,0.6,0.0,8.4504,EUR 8.5M
+Taiwo Awoniyi,Nott'ham Forest,FW,26,1,0,2.1,0.1,20.631600000000002,EUR 20.6M
+Tariq Lamptey,Brighton,DF,23,2,2,0.4,0.8,12.20496,EUR 12.2M
+Taylor Harwood-Bellis,Southampton,DF,22,1,0,1.8,1.0,12.07296,EUR 12.1M
+Thiago,Brentford,"FW,MF",23,0,0,0.1,0.1,21.1923,EUR 21.2M
+Thomas Partey,Arsenal,"MF,DF",31,4,2,2.3,2.1,13.501799999999998,EUR 13.5M
+Tim Iroegbunam,Everton,MF,21,0,1,0.2,0.2,14.979299999999999,EUR 15.0M
+Timo Werner,Tottenham,"FW,MF",28,0,3,1.0,2.5,20.412,EUR 20.4M
+Timothy Castagne,Fulham,DF,28,0,1,0.4,1.2,10.392479999999999,EUR 10.4M
+Toby Collyer,Manchester Utd,MF,20,0,0,0.2,0.3,15.075,EUR 15.1M
+Tom Cairney,Fulham,MF,33,2,0,0.8,1.1,11.754899999999997,EUR 11.8M
+Tommy Doyle,Wolves,MF,22,0,1,0.6,0.5,14.774399999999998,EUR 14.8M
+Tomáš Souček,West Ham,MF,29,9,1,6.7,1.0,15.645600000000002,EUR 15.6M
+Tosin Adarabioyo,Chelsea,DF,26,1,1,0.9,0.2,11.045760000000001,EUR 11.0M
+Toti Gomes,Wolves,DF,25,0,1,0.7,0.9,11.1348,EUR 11.1M
+Trent Alexander-Arnold,Liverpool,DF,25,3,6,1.9,7.3,13.4136,EUR 13.4M
+Trevoh Chalobah,Chelsea,DF,25,0,1,0.8,1.2,11.177999999999999,EUR 11.2M
+Tyler Adams,Bournemouth,MF,25,0,3,1.6,1.0,14.458499999999999,EUR 14.5M
+Tyler Dibling,Southampton,"FW,MF",18,2,0,2.5,1.5,25.272000000000006,EUR 25.3M
+Tyler Fredricson,Manchester Utd,DF,19,0,0,0.0,0.0,12.24,EUR 12.2M
+Tyrell Malacia,Manchester Utd,DF,24,0,0,0.0,0.0,11.04,EUR 11.0M
+Tyrick Mitchell,Crystal Palace,DF,24,0,5,1.3,6.4,12.718079999999999,EUR 12.7M
+Tyrique George,Chelsea,FW,18,1,1,0.2,0.7,24.429600000000004,EUR 24.4M
+Tyrone Mings,Aston Villa,DF,31,0,0,0.8,0.2,9.4536,EUR 9.5M
+Valentino Livramento,Newcastle Utd,DF,21,0,1,0.3,2.6,12.27744,EUR 12.3M
+Victor Bernth Kristiansen,Leicester City,DF,21,0,1,0.3,1.4,12.13632,EUR 12.1M
+Victor Lindelöf,Manchester Utd,DF,30,0,0,0.0,0.1,9.609599999999999,EUR 9.6M
+Virgil van Dijk,Liverpool,DF,33,3,1,2.2,0.7,9.803519999999999,EUR 9.8M
+Vitaliy Mykolenko,Everton,DF,25,1,2,0.5,2.6,11.674800000000001,EUR 11.7M
+Vitaly Janelt,Brentford,MF,26,1,3,0.8,2.2,14.454,EUR 14.5M
+Vladimír Coufal,West Ham,DF,31,0,0,0.3,0.7,9.4536,EUR 9.5M
+Wataru Endo,Liverpool,"MF,DF",31,0,0,0.0,0.1,11.711699999999999,EUR 11.7M
+Welington,Southampton,DF,23,0,0,0.0,0.1,11.291279999999999,EUR 11.3M
+Wes Burns,Ipswich Town,"FW,DF",29,0,1,0.5,1.6,19.1142,EUR 19.1M
+Wesley Fofana,Chelsea,DF,23,0,0,0.4,0.4,11.370239999999999,EUR 11.4M
+Wilfred Ndidi,Leicester City,MF,27,0,5,2.0,1.9,14.3706,EUR 14.4M
+Will Hughes,Crystal Palace,MF,29,0,3,1.1,3.1,13.3701,EUR 13.4M
+William Osula,Newcastle Utd,FW,20,1,0,0.2,0.1,23.0175,EUR 23.0M
+William Saliba,Arsenal,DF,23,2,0,2.3,0.9,12.09216,EUR 12.1M
+William Smallbone,Southampton,MF,24,1,0,0.6,0.7,14.255399999999998,EUR 14.3M
+Willian,Fulham,"FW,MF",35,0,0,0.3,0.5,15.876,EUR 15.9M
+Willy Boly,Nott'ham Forest,DF,33,0,0,0.1,0.0,8.888879999999999,EUR 8.9M
+Wilson Odobert,Tottenham,"FW,MF",19,1,0,1.6,1.0,24.0057,EUR 24.0M
+Wout Faes,Leicester City,DF,26,1,0,1.5,0.1,10.94016,EUR 10.9M
+Woyo Coulibaly,Leicester City,DF,25,0,0,0.0,0.0,10.8,EUR 10.8M
+Yankuba Minteh,Brighton,"FW,MF",20,6,4,4.1,5.0,28.597499999999997,EUR 28.6M
+Yasin Ayari,Brighton,MF,20,2,1,2.4,2.3,16.53,EUR 16.5M
+Yehor Yarmoliuk,Brentford,MF,20,0,0,0.6,0.9,15.224999999999998,EUR 15.2M
+Yerson Mosquera,Wolves,DF,23,0,0,0.3,0.1,11.32512,EUR 11.3M
+Yoane Wissa,Brentford,FW,27,19,4,18.5,2.6,31.94685,EUR 31.9M
+Youri Tielemans,Aston Villa,MF,27,3,7,3.3,7.0,16.357200000000002,EUR 16.4M
+Yukinari Sugawara,Southampton,"DF,MF",24,1,1,0.5,2.2,14.6556,EUR 14.7M
+Yves Bissouma,Tottenham,MF,27,2,0,0.6,0.3,13.5321,EUR 13.5M
+Álex Moreno,Nott'ham Forest,"DF,MF",31,0,1,0.2,1.3,12.051,EUR 12.1M
+İlkay Gündoğan,Manchester City,MF,33,1,6,3.2,3.5,13.064699999999998,EUR 13.1M
+Łukasz Fabiański,West Ham,GK,39,0,0,0.0,0.0,4.65,EUR 4.7M

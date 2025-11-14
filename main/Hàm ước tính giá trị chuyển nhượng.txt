@@ -1,0 +1,10 @@
+Hàm ước tính giá trị chuyển nhượng
+Yếu tố - Ý nghĩa
+base_value: Giá trị cơ bản theo vị trí: FW > MF > DF > GK
+age_factor: Càng trẻ giá trị càng cao (tuổi > 20 sẽ giảm dần)
+performance_factor: Dựa trên bàn thắng, kiến tạo, xG, xAG (mỗi chỉ số có
+trọng số riêng)
+minutes_factor: Dựa trên thời gian thi đấu (giới hạn tối đa là 2000 phút
+để cân bằng)
+transfer_value: Tổng hợp tất cả nhân tố lại → làm tròn + không thấp
+hơn 0.5 triệu euro
